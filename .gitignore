@@ -1,0 +1,10 @@
+# Caché de Python y Pytest
+__pycache__/
+.pytest_cache/
+
+# Videos y reportes locales
+*.mp4
+*.log
+
+# Variables de entorno
+.env
